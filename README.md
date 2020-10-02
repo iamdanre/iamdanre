@@ -1,4 +1,4 @@
-<h1 align="center">hi (° ͜ʖ͡°), i'm danré</h1>
+<h1 align="center">hi (° ͜ʖ͡°) i'm danré</h1>
 - 🔭 i’m currently working on [ArtiFact](https://github.com/COS301-SE-2020/AI-Online-Assist)
 
 - 🌱 i’m currently learning **vue ヾ(-_- )ゞ**
