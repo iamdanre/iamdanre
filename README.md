@@ -1,5 +1,5 @@
 <h1 align="center">hi (° ͜ʖ͡°) i'm danré</h1>
-- 🔭 i’m currently working on [ArtiFact](https://github.com/COS301-SE-2020/AI-Online-Assist)
+- 🔭 currently working on my personal webpage
 
 - 🌱 i’m currently learning **vue ヾ(-_- )ゞ**
 
@@ -7,7 +7,6 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://dev.to/@iamdanre" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@iamdanre" height="30" width="40" /></a>
 <a href="https://twitter.com/@iamdanre" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@iamdanre" height="30" width="40" /></a>
 <a href="https://instagram.com/@_danre_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@_danre_" height="30" width="40" /></a>
 </p>
