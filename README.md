@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://developer.android.com" target="_blank"> <img width="40" height="40" src="icons/android-plain-wordmark.svg"></a>
 <a href="https://angular.io" target="_blank">
-<img width="40" height="40" src="icons/android-plain-wordmark.svg">
+<img width="40" height="40" src="icons/angularjs-original.svg">
 </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank">
 <img width="40" height="40" src="icons/bash-original.svg">
