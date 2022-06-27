@@ -1,7 +1,7 @@
-<h1 align="center">hello<br>(｡☉ω ⊙｡)<br>i'm danré</h1>
+<h1 align="center">hello<br>(｡☉ω ⊙｡)<br>i am danré</h1>
 - 🔭 currently working on side projects
 
-- 🌱 i’m currently learning **vue (●´ω ｀ ●)**
+- 🌱 i’m currently learning **groovy (●´ω ｀ ●)**
 
 - 💬 ask me about **operating  systems/configs (◕ܫ◕)**
 
